@@ -1,0 +1,1 @@
+# Jak zbudować model scoringowy?
